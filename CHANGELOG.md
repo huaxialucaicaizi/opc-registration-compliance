@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `scripts/validate.py` now fails if any link in `references/` or `templates/` is not an official government domain (`*.gov.cn`)
 
 ### Changed
+- SKILL.md「可选衔接」：为第 2 步商业计划书、第 3 步政策导航补上步骤编号和仓库链接；正文中的政策导航引用同步加上链接
+- SKILL.md optional hand-offs: added step numbers and GitHub links for business-plan-skill and opc-policy-navigator
 - README「一人公司工具包」表格：仓库链接改为加粗的「英文名 · 中文名」（与合集 ai-startup-skills 一致），英文版用加粗英文名
 - README toolkit tables: repo links now use bold "English name · Chinese name" (matching the ai-startup-skills bundle); the English section uses bold English names
 - README 开头的第 7 步提示和「园区工位注册」FAQ 中提到的姐妹仓库改为可点击、加粗的「英文名 · 中文名」链接；英文 FAQ 补上与中文版一致的政策导航指引
