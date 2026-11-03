@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `scripts/validate.py` now fails if any link in `references/` or `templates/` is not an official government domain (`*.gov.cn`)
 
 ### Changed
+- 许可证由 MIT 改为非商业许可；转载或商用须联系 @huaxialucaicaizi
+- License changed from MIT to non-commercial; republication or commercial use requires contacting @huaxialucaicaizi
 - README「一人公司工具包」表格：仓库链接改为加粗的「英文名 · 中文名」（与合集 ai-startup-skills 一致），英文版用加粗英文名
 - README toolkit tables: repo links now use bold "English name · Chinese name" (matching the ai-startup-skills bundle); the English section uses bold English names
 - README 开头的第 7 步提示和「园区工位注册」FAQ 中提到的姐妹仓库改为可点击、加粗的「英文名 · 中文名」链接；英文 FAQ 补上与中文版一致的政策导航指引
